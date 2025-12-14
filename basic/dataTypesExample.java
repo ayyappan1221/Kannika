@@ -1,4 +1,4 @@
-public class Main {
+public class dataTypesExample {
     public static void main(String[] args) {
 
         byte b = 10;
