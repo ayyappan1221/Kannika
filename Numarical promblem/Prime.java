@@ -9,6 +9,7 @@ public class Prime {
 
         if (n <= 1) {
             System.out.println("Not Prime");
+            sc.close();
             return;
         }
 
