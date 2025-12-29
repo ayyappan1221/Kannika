@@ -2,9 +2,8 @@
 
 This document contains categorized string problems for Java practice.
 
----
-
 ## 1) Basic String Questions
+
 1. Count length of a string without using built-in `.length()`
 2. Convert string to uppercase without using `.toUpperCase()`
 3. Count number of vowels in a string
@@ -17,6 +16,7 @@ This document contains categorized string problems for Java practice.
 ---
 
 ## 2) Reversing & Palindrome
+
 1. Reverse a string
 2. Reverse string using recursion
 3. Check if string is palindrome
@@ -27,6 +27,7 @@ This document contains categorized string problems for Java practice.
 ---
 
 ## 3) Character & Substring Operations
+
 1. Find frequency of a character in a string
 2. Find first non-repeating character
 3. Find first repeating character
@@ -40,6 +41,7 @@ This document contains categorized string problems for Java practice.
 ---
 
 ## 4) String Transformations
+
 1. Convert lowercase to uppercase manually
 2. Convert uppercase to lowercase manually
 3. Capitalize first letter of each word
@@ -51,6 +53,7 @@ This document contains categorized string problems for Java practice.
 ---
 
 ## 5) Advanced Practice
+
 1. Check if two strings are anagrams
 2. Count number of substrings
 3. Longest word in a sentence
@@ -68,6 +71,7 @@ This document contains categorized string problems for Java practice.
 ---
 
 ## 6) Pattern-Based
+
 1. Print each character with its index
 2. Print characters vertically
 3. Swap first and last character of each word
@@ -77,6 +81,7 @@ This document contains categorized string problems for Java practice.
 ---
 
 ## 📎 How to Use
+
 - Practice by writing Java solutions manually
 - Try solving without built-in methods first
 - Then solve again using built-in functions for optimization
