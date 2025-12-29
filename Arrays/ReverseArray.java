@@ -12,10 +12,18 @@ public class ReverseArray {
             a[i] = sc.nextInt();
         }
 
-        for (int i = 0; i < n / 2; i++) {
-            int temp = a[i];
-            a[i] = a[n - 1 - i];
-            a[n - 1 - i] = temp;
+        /*
+         * for (int i = 0; i < n / 2; i++) {
+         * int temp = a[i];
+         * a[i] = a[n - 1 - i];
+         * a[n - 1 - i] = temp;
+         * }
+         */
+        int half = (n / 2) + 1; // include middle
+        for (int i = 0; i < half / 2; i++) {
+            int t = a[i];
+            a[i] = a[half - 1 - i];
+            a[half - 1 - i] = t;
         }
 
         for (int i = 0; i < n; i++) {
@@ -24,3 +32,24 @@ public class ReverseArray {
         sc.close();
     }
 }
+/*
+ * Reverse the first half of the array min
+ * 
+ * int K=n/2;
+ * for(int i=0;i<K/2;i++){
+ * int t=a[i];
+ * a[i]=a[K-1-i];
+ * a[K-1-i]=t;
+ * }
+ */
+
+/*
+ * Reverse the first half of the array max
+ *
+ * int K=(n/2)+1;
+ * for(int i=0;i<K/2;i++){
+ * int t=a[i];
+ * a[i]=a[K-1-i];
+ * a[K-1-i]=t;
+ * }
+ */
