@@ -11,7 +11,6 @@
 7. Search an element in array (Linear Search)
 8. Copy elements from one array to another
 
-
 ## 2) Medium Level
 
 1. Reverse the array elements
@@ -25,7 +24,6 @@
 9. Merge two arrays
 10. Find unique elements in an array
 11. Find repeating elements in an array
-
 
 ## 3) Concept Practice
 
@@ -41,7 +39,6 @@
 10. Count how many elements are greater than a given number
 11. Reverse only half of the array
 12. Swap first half and second half of an array
-
 
 ## 4) Extra Challenges
 
