@@ -47,4 +47,3 @@
 6. Generate all balanced parenthesis of size N
 7. Print all possible coin change combinations
 8. Solve N-Queens problem using recursion & backtracking
-
