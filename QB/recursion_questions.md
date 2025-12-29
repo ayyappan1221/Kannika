@@ -1,7 +1,7 @@
-
 # Recursion Question Bank (Java / DSA)
 
 ## 1️⃣ Basic Recursion
+
 1. Print numbers from 1 to N using recursion
 2. Print numbers from N to 1 using recursion
 3. Print sum of first N natural numbers
@@ -12,6 +12,7 @@
 8. Count digits of a number using recursion
 
 ## 2️⃣ Medium Concepts
+
 1. Reverse a string using recursion
 2. Reverse a number using recursion
 3. Find maximum element in an array recursively
@@ -24,6 +25,7 @@
 10. Convert a decimal number to binary using recursion
 
 ## 3️⃣ Advanced Practice
+
 1. Power of a number (x^n) using recursion
 2. Binary search using recursion
 3. Merge sort implementation using recursion
@@ -36,6 +38,7 @@
 10. Find n-th Fibonacci using memoization
 
 ## 4️⃣ Brain-Twisters
+
 1. Calculate the sum of elements in array by dividing array into halves
 2. Check if array is sorted using recursion
 3. Remove adjacent duplicates in a string recursively
