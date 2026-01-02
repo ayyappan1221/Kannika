@@ -37,5 +37,6 @@ public class SecondSmallest {
             System.out.println("Second smallest ");
         else
             System.out.println("Second smallest: " + second);
+        sc.close();
     }
 }
